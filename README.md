@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: VASUKANNAN R </h3>
-<h3>Register Number:212224080060 </h3>
+<h3>Name: MADHAVAKRISHNAN.R </h3>
+<h3>Register Number:212224080031 </h3>
 
 
 <h3>AIM:</h3>
